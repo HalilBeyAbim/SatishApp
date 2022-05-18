@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\bin\Debug\netcoreapp3.1\SatishApp.exe
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\bin\Debug\netcoreapp3.1\SatishApp.deps.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\bin\Debug\netcoreapp3.1\SatishApp.runtimeconfig.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\bin\Debug\netcoreapp3.1\SatishApp.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\bin\Debug\netcoreapp3.1\SatishApp.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\bin\Debug\netcoreapp3.1\SatishApp.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.AssemblyInfo.cs
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\SatishApp\SatishApp\obj\Debug\netcoreapp3.1\SatishApp.genruntimeconfig.cache
